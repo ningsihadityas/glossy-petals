@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "188613319610",
+    "firebase_url": "https://glossypetals-e91d9.firebaseio.com",
+    "project_id": "glossypetals-e91d9",
+    "storage_bucket": "glossypetals-e91d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188613319610:android:a6ca0565cd4d468506db83",
+        "android_client_info": {
+          "package_name": "com.example.glossypetals2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188613319610-24256qespr1b5bpogvv01d42sq265m2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjNtTK0YX_2f-aiQpgDyC5RYnZngzCzVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188613319610-24256qespr1b5bpogvv01d42sq265m2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
